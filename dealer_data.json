@@ -1,0 +1,16 @@
+[
+  {
+    "dealer": "Mobility Connect",
+    "product name": "Platinum Package",
+    "info": "Subscription charged by Mobility Connect that ncludes our insurance and also extras such as a service. ",
+    "cancelled": "False",
+    "contact": "Adrien Grummet"
+  },
+  {
+    "dealer": "Millercare",
+    "product name": "Stairlift PAckage",
+    "info": "YEarly plan charged by Millercare on some stairlifts. Thye cover our consumables such as batteries abd brushes for motors, and include a service",
+    "cancelled": "False",
+    "contact": "Matt Cook"
+  }
+]
