@@ -25,6 +25,12 @@
             return data;
         }
 
+        function checkEnter(event) {
+            if (event.key === 'Enter') {
+                searchJSON();
+            }
+        }
+
         async function searchJSON() {
             try {
                 const input = document.getElementById('searchInput').value.toUpperCase();
