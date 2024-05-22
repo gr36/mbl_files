@@ -10,7 +10,7 @@
 
     <script>
         async function fetchJSON() {
-            const response = await fetch('https://github.com/gr36/mbl_files/blob/main/dealer_data.json');
+            const response = await fetch('https://raw.githubusercontent.com/gr36/mbl_files/main/dealer_data.json');
             const data = await response.json();
             return data;
         }
